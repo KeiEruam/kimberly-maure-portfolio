@@ -10,6 +10,7 @@
     'Impact': '工作成果',
     'Beyond tickets': '工单之外',
     'Growth': '职业成长',
+    'Contact': '联系',
     'Portfolio · July 2025 - July 2026': '作品集 · 2025年7月 - 2026年7月',
     'I investigate complex MLS issues across the systems that connect source data to search, applications, platform behavior, and the client experience.': '我负责调查复杂的 MLS 问题，涵盖连接源数据、搜索、申请流程、平台行为与客户体验的各个系统。',
     'MLS Data': 'MLS 数据',
@@ -189,7 +190,10 @@
     'Source data, mapping, search, feeds, providers, and product behavior.': '源数据、映射、搜索、数据源、提供商及产品行为。',
     'In one line': '一句话总结',
     'I turn complex MLS problems into clear root causes, reliable solutions, and improvements that extend beyond the individual ticket.': '我将复杂的 MLS 问题转化为清晰的根本原因、可靠的解决方案，以及超越单个工单的持续改进。',
-    'That end-to-end perspective is one of the strongest things I bring to my current role.': '这种端到端的视角，是我在当前岗位上最重要的优势之一。'
+    'That end-to-end perspective is one of the strongest things I bring to my current role.': '这种端到端的视角，是我在当前岗位上最重要的优势之一。',
+    "LET'S CONNECT": '保持联系',
+    'Interested in connecting?': '想与我联系吗？',
+    'For professional opportunities, industry conversations, or questions about my work, feel free to reach out.': '如需交流职业机会、行业话题，或对我的工作有任何疑问，欢迎与我联系。'
   };
 
   function walkTextNodes(root, callback) {
